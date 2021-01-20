@@ -1,0 +1,4 @@
+Path-planned instances: 197
+Detour instances: 2
+Straight instances: 0
+Initial and destination consistent instances: 0

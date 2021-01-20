@@ -1,0 +1,15 @@
+*.csv
+#*.pkl
+/dev/
+*fitted_model*.pkl
+*stan_model*.pkl
+/example_5d/*/i_*
+/example_3d/*/i_*
+*summary.txt
+!*df_actionability_score.csv
+!*distance_summary.txt
+!*df_X.csv
+!*df_y.csv
+!*df_var.csv
+.ipynb_checkpoints/
+__pycache__
